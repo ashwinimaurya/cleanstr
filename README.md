@@ -20,9 +20,13 @@ names=['John','albertsons','***shit**', 'bro', 'violently']
 F=Functions.cleanupName()
 
 for name in names:
+
     if F.is_valid_name(name):
+
         print(f"'{name}' is valid name.\n")
+        
     else:
+    
         print(f"'{name}' is NOT valid name!\n")
 
 
