@@ -1,7 +1,7 @@
 # cleanstr
 Python Package for Cleaning Strings
 
-PyPI: https://test.pypi.org/project/cleanstr/
+PyPI: [https://test.pypi.org/project/cleanstr/](https://pypi.org/project/cleanstr/)
 
 Usage:
 
