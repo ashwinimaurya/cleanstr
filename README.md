@@ -11,6 +11,10 @@ from cleanstr import Functions
 
 F=Functions()
 
+## Name Cleaning. 
+
+#### The code checks for name validity such as against abusive words, common pronouns, adjectives, common slang words. (to be updated more later :))
+
 names=['John','albertsons','***shit**', 'bro', 'violently']
 
 F=Functions.cleanupName()
